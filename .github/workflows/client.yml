@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-92-uk11-s3 \
             --delete
-        working-directory: ./my-agora-states-client
+        working-directory: ./my-agora-states-client 
